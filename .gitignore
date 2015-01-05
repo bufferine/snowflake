@@ -9,3 +9,4 @@
 .idea/libraries/Maven__com_twitter_scala_zookeeper_client_3_0_6.xml
 *.xml
 snowflake.iml
+OWNERS
