@@ -1,0 +1,11 @@
+.idea/libraries/Maven__javax_mail_mail_1_4.xml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml
+.idea/libraries/Maven__com_twitter_ostrich_8_2_0.xml
+.idea/libraries/Maven__com_twitter_scala_json_3_0_0.xml
+.idea/libraries/Maven__com_twitter_scala_zookeeper_client_3_0_6.xml
+*.xml
+snowflake.iml
